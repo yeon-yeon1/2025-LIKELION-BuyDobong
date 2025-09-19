@@ -1,4 +1,5 @@
-![Buy-Dobong](https://capsule-render.vercel.app/api?type=blur&color=auto&text=Buy-Dobong&height=auto&fontSize=auto&fontAlign=50&fontColor=auto)
+
+[![Buy-Dobong](https://capsule-render.vercel.app/api?type=blur&color=auto&text=Buy-Dobong&height=auto&fontSize=auto&fontAlign=50&fontColor=auto)](https://buy-dobong.vercel.app)
 
 <p align="center">
   <b>음성 UX로 손쉽게 특가 등록을 하고, 이에 대한 정보를 받아볼 수 있는 플랫폼</b>
